@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.7.0" rim:header="RIM-Widget:rim/widget" xmlns="http://www.w3.org/ns/widgets">
+  <name>Firebug</name>
+  <description>A sample demonstrating how to put Firebug Lite in a WebWorks APp</description>
+  <author href="http://peternewhook.com" rim:copyright="2011" email="peter.newhook@gmail.com">Peter Newhook</author>
+  <license href="http://www.apache.org/licenses/LICENSE-2.0.html" />
+  <icon src="images\icon.png" rim:hover="false" />
+  <icon src="images\icon.png" rim:hover="true" />
+  <content src="index.html" />
+</widget>

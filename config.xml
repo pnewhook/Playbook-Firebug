@@ -7,4 +7,5 @@
   <icon src="images\icon.png" rim:hover="false" />
   <icon src="images\icon.png" rim:hover="true" />
   <content src="index.html" />
+  <access uri="http://getfirebug.com/" subdomains="true" />
 </widget>
